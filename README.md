@@ -4,8 +4,17 @@ Web based office automation system for SLIATE ATI - Kurunegala
 This project is a complete office management system developed for SLIATE ATI Kurunegala using PHP and MySQL. The system handles student management, staff and inventory
 ## Features
 -Student management : Add, Edit, View student details 
+
+
+
 -Authentication: secure login with password reset
+
+
+
 -Certificate Generation : Auto generate course completion certificates with student name, course and date
+
+
+
 -Responsive : Works on Desktop and mobile
 ## Tech Stack
 -Backend : PHP
