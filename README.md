@@ -31,3 +31,5 @@ This project is a complete office management system developed for SLIATE ATI Kur
 1.Clone the repository
   ```bash
   git clone https://github.com/hirundiherath574-hub/Advanced-Technology-Institute-System.git
+2.Import `database.sql` to phpMyAdmin
+3.Run on `http.//localhost/Advanced-Technology-Institute-System`
