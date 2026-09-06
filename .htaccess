@@ -1,0 +1,8 @@
+# C:\xampp\htdocs\atiSystem\public\.htaccess
+
+#RewriteEngine On
+# Serve existing files / folders directly
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+# Everything else goes through index.php
+#RewriteRule ^ index.php [QSA,L]
