@@ -18,8 +18,14 @@ This project is a complete office management system developed for SLIATE ATI Kur
 -Responsive : Works on Desktop and mobile
 ## Tech Stack
 -Backend : PHP
+
+
 -Database : MySQL
+
+
 -Frontend : HTML, CSS
+
+
 -Server : Apache / XAMPP
 ## Installation and Setup
 1.Clone the repository
